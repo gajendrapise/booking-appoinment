@@ -1,6 +1,6 @@
 <?php
 session_start();
-header("location:appoinment.php");
+header("location:appointment.php");
 include 'conn.php';
 $app=$_POST['app'];
 $dow=$_POST['dow'];
