@@ -85,7 +85,7 @@
     </div>
   </div>
 </div>
-imagiobox
+<p>imagiobox</p>
 <?php
 include 'footer.php';
 ?>
