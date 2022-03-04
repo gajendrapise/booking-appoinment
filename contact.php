@@ -60,7 +60,7 @@
       <input type="text" class="form-control" placeholder="Enter Last Name" name="lname">
     </div>
     <div class="mb-3 mt-3">
-      <label for="email">Email:</label>
+      <label for="email">Email Id:</label>
       <input type="email" class="form-control" id="email" placeholder="Enter email" name="email">
     </div>
         <div class="mb-3 mt-3">
